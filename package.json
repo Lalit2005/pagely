@@ -29,7 +29,7 @@
     "@tailwindcss/forms": "^0.3.4",
     "axios": "^0.21.2",
     "lodash.truncate": "^4.4.2",
-    "next": "^12.0.8",
+    "next": "^12.2.2",
     "next-seo": "^4.26.0",
     "notion-client": "^4.10.0",
     "notion-utils": "^4.10.0",
